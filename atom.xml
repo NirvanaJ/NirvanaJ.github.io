@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-08-31T07:09:48.140Z</updated>
+    <updated>2021-08-31T07:13:41.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -16,16 +16,16 @@
         <link href="https://NirvanaJ.github.io/post/hu-lian-wang-de-tao-wa-xing-wei-you-duo-xiong-can">
         </link>
         <updated>2021-08-30T14:58:03.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="导读"><strong>导读</strong></h1>
-<p><img src="https://NirvanaJ.github.io/post-images/1630335766942.jpg" alt=""></p>
-<p>几乎所有的中国网民都不会忘记 2010 年的“<strong>3Q大战</strong>”。<br>
-在腾讯做出那个“<strong>非常艰难的决定</strong>”之后，360 不但不能与 QQ 同时安装了，使用 360 浏览器的用户也不再能访问 QQ 空间，QQ 空间作为当时最受欢迎的社交网站，<strong>腾讯的这一操作就等同于宣判了 360 浏览器的死刑</strong>。</p>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="导读"><strong>导读</strong></h1>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<h1 id="导读"><strong>导读</strong></h1>
 <p><img src="https://NirvanaJ.github.io/post-images/1630335766942.jpg" alt=""></p>
 <p>几乎所有的中国网民都不会忘记 2010 年的“<strong>3Q大战</strong>”。<br>
 在腾讯做出那个“<strong>非常艰难的决定</strong>”之后，360 不但不能与 QQ 同时安装了，使用 360 浏览器的用户也不再能访问 QQ 空间，QQ 空间作为当时最受欢迎的社交网站，<strong>腾讯的这一操作就等同于宣判了 360 浏览器的死刑</strong>。</p>
-<!-- more -->
 <p>在此次大战中，发挥着关键性作用的是「<strong>浏览器 UA</strong>」，我们今天就来好好讨论一下这个话题。</p>
 <h1 id="一-浏览器-ua-的诞生"><strong>一、浏览器 UA 的诞生</strong></h1>
 <p>要讲清楚这个话题，我们要从 1990 年说起。</p>
@@ -104,17 +104,19 @@
         <link href="https://NirvanaJ.github.io/post/instreamyoutubeniconicotwitterwei-bo-di-san-fang-app">
         </link>
         <updated>2021-08-30T09:43:38.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<h1 id="-instream第三方app">- <code>**Instream第三方APP**</code></h1>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
+<h1 id="-instream第三方app">- <code>**Instream第三方APP**</code></h1>
 <p>insplus<br>
 官网：https://insplusapp.com<br>
 蓝奏云：https://gmengshuai.lanzoui.com/iPOEjr167de<br>
 天翼云：https://cloud.189.cn/web/share?code=vuIZVf3q6je2<br>
 萌云：https://moecloud.cn/s/9q1ys9</p>
-<!-- more -->
 <h1 id="-youtube第三方app">- <code>**Youtube第三方APP**</code></h1>
-<!-- more -->
 <p>Pure Tuber高级版<br>
 蓝奏云：https://gmengshuai.lanzoui.com/iQwdrr167vc<br>
 天翼云：https://cloud.189.cn/web/share?code=EF7BFnRbmume<br>
@@ -127,23 +129,17 @@ NewPipe<br>
 蓝奏云：https://gmengshuai.lanzoui.com/iiHs2r167ne<br>
 天翼云：https://cloud.189.cn/web/share?code=aQzQfyvInIvm<br>
 萌云：https://moecloud.cn/s/w5KGuE</p>
-<!-- more -->
 <h1 id="-niconico第三方app">- <code>**Niconico第三方APP**</code></h1>
-<!-- more -->
 <p>Nicoid<br>
 蓝奏云：https://gmengshuai.lanzoui.com/ie1cbr167of<br>
 天翼云：https://cloud.189.cn/web/share?code=zEruueAJnyYj<br>
 萌云：https://moecloud.cn/s/VkzXin</p>
-<!-- more -->
 <h1 id="-twitter第三方app">- <code>**Twitter第三方APP**</code></h1>
-<!-- more -->
 <p>Twidere<br>
 蓝奏云：https://gmengshuai.lanzoui.com/i3a1wr168eb<br>
 天翼云：https://cloud.189.cn/web/share?code=Fr6FjyqeEB3i<br>
 萌云：https://moecloud.cn/s/JGreS9</p>
-<!-- more -->
 <h1 id="-微博第三方app">- <code>**微博第三方APP**</code></h1>
-<!-- more -->
 <p>Share(已停更)<br>
 蓝奏云：https://gmengshuai.lanzoui.com/iXmUur1687e<br>
 天翼云：https://cloud.189.cn/web/share?code=Rr6vUrjyIJ3i<br>
