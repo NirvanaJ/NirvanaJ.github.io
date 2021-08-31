@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-08-31T14:56:12.194Z</updated>
+    <updated>2021-08-31T15:47:17.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -44,7 +44,7 @@
 <p><img src="https://NirvanaJ.github.io/post-images/1630420796004.gif" alt=""></p>
 <p>如果不打算用了，想要卸载，在网页的管理中心，点右上角的系统设置，点击卸载，就可以了，也是非常方便。</p>
 <p><img src="https://NirvanaJ.github.io/post-images/1630420800669.webp" alt=""></p>
-<p><em><code>下载链接：</code></em> <a href=""><strong>https://whykang.lanzoui.com/ie9SUtessji</strong></a></p>
+<p><em><code>下载链接：</code></em> <a href="https://whykang.lanzoui.com/ie9SUtessji"><strong>https://whykang.lanzoui.com/ie9SUtessji</strong></a></p>
 ]]></content>
     </entry>
     <entry>
@@ -116,9 +116,9 @@
 <p>Edge：edge://version</p>
 <p>Firefox：about:support</p>
 <p>又或者打开下面三个网站来检测：<br>
-<a href="">https://www.whatsmyua.info</a></p>
-<p><a href="">https://passer-by.com/browser</a></p>
-<p><a href="">http://useragentstring.com</a><br>
+<a href="https://www.whatsmyua.info">https://www.whatsmyua.info</a></p>
+<p><a href="https://passer-by.com/browser">https://passer-by.com/browser</a></p>
+<p><a href="http://useragentstring.com">http://useragentstring.com</a><br>
 然后，我们可以使用拓展 <strong>User-Agent Switcher and Manager</strong> 来自定义浏览器 UA，拓展同时还支持“白名单模式”，可以对不同的网站使用不同的浏览器 UA。<br>
 <img src="https://NirvanaJ.github.io/post-images/1630336927145.webp" alt=""><br>
 又或者使用拓展 <strong>Header Editor</strong> 来修改浏览器 UA。</p>
