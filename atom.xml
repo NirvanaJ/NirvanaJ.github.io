@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-08-31T07:02:45.873Z</updated>
+    <updated>2021-08-31T07:04:47.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -16,84 +16,10 @@
         <link href="https://NirvanaJ.github.io/post/hu-lian-wang-de-tao-wa-xing-wei-you-duo-xiong-can">
         </link>
         <updated>2021-08-30T14:58:03.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="导读"><strong>导读</strong></h1>
-<p><img src="https://NirvanaJ.github.io/post-images/1630335766942.jpg" alt=""></p>
-<p>几乎所有的中国网民都不会忘记 2010 年的“<strong>3Q大战</strong>”。<br>
-在腾讯做出那个“<strong>非常艰难的决定</strong>”之后，360 不但不能与 QQ 同时安装</p>
-<!-- more -->了，使用 360 浏览器的用户也不再能访问 QQ 空间，QQ 空间作为当时最受欢迎的社交网站，**腾讯的这一操作就等同于宣判了 360 浏览器的死刑**。
-<p>在此次大战中，发挥着关键性作用的是「<strong>浏览器 UA</strong>」，我们今天就来好好讨论一下这个话题。</p>
-<h1 id="一-浏览器-ua-的诞生"><strong>一、浏览器 UA 的诞生</strong></h1>
-<p>要讲清楚这个话题，我们要从 1990 年说起。</p>
-<p>1990 年，英国计算机科学家<strong>蒂姆·伯纳斯·李</strong>巧妙地提出了 <strong>HTTP 协议</strong>，然后又编写了世界上第一个浏览器 <strong>World Wide Web</strong>，万维网就此诞生。</p>
-<p>1993 年，美国国家超级电脑应用中心（NCSA）推出了一款叫做 <strong>Mosaic（马赛克）</strong> 的浏览器，它第一次将图片与文字同时在一起展示。从此，浏览器就变得有趣且流行起来。</p>
-<p><img src="https://NirvanaJ.github.io/post-images/1630336016155.jpg" alt=""><br>
-从此，浏览器 UA 作为一种“<strong>根据用户软硬件环境，进而采用不同内容策略</strong>”的技术，诞生了。</p>
-<h1 id="二-浏览器-ua-的伪装"><strong>二、浏览器 UA 的伪装</strong></h1>
-<p>1994 年，Mosaic 项目的核心成员<strong>马克·安德森</strong>离职，然后成立了自己的公司，并发布了一款全新的浏览器 <strong>Mozilla</strong>。Mozilla 除了是 <strong>Godzilla</strong> 的谐音外，它还是 <strong>Mosaic Killa</strong> 的缩写，意思是要做 <strong>Mosaic 的终结者</strong>。</p>
-<p>然而在 <strong>Mosaic</strong> 的压力之下， <strong>Mozilla</strong> 还是改名为了 <strong>Netscape</strong>（网景）浏览器。不过在设置浏览器 UA 时，Netscape 仍然使用了 Mozilla 的名字，也就是 <strong>Mozilla/1.0 (Win3.1)</strong>。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336201753.jpg" alt=""><br>
-接着，Netscape 浏览器率先支持了网页框架技术，而其他浏览器要么不支持，要么支持得不够好，Netscape 很快成为当时最流行的浏览器。</p>
-<p>1995 年，微软宣布进军互联网，然后发布了 IE 浏览器。</p>
-<p>尽管 IE 浏览器同样也支持框架技术，但总是收不到有框架的页面，原因是网页服务器会先检测浏览器 UA 中是否包含有 Mozilla，如果有，那就发送有框架的页面，如果没有，那就发送不含框架的页面。</p>
-<p>微软等不及市场的反应，于是在 IE 浏览器的 UA 中加入了 Mozilla 的字样，也就是 <strong>Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)</strong>，这样 IE 浏览器就能正常接收到有框架的页面了。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336247524.jpg" alt=""><br>
-于是，浏览器 UA 也成为了解决浏览器兼容性的一个重要手段。</p>
-<h1 id="三-浏览器-ua-的演变"><strong>三、浏览器 UA 的演变</strong></h1>
-<p>没过多久，微软采用了将 IE 与 Windows 捆绑销售的策略，Netscape 浏览器被打败退出历史舞台，不甘失败的 Netscape 团队在 2004 年又推出了一款新的浏览器 <strong>Firefox</strong>。</p>
-<p>Firefox 浏览器使用的  <strong>Gecko</strong> 引擎非常优秀，为了告诉大家，我使用了这个引擎，于是就加入到了浏览器的 UA 里：<strong>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041108 Firefox/1.0</strong>。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336413530.jpg" alt=""><br>
-由于 Gecko 的出色和 IE 的止步不前，浏览器 UA 的探测规则发生了变化。</p>
-<p>使用 Gecko 引擎的浏览器可以得到更好的网页代码，而其他的浏览器则没有这种待遇。Linux 的追随者对此很难过，因为他们开发了基于 <strong>KHTML</strong> 引擎的 Konqueror 浏览器，他们认为 <strong>KHTML</strong> 和 <strong>Gecko</strong> 一样出色，但却因为不是 Gecko 而得不到好的页面。</p>
-<p>于是他们宣布 KHTML 兼容 Gecko（<strong>like Gecko</strong>），浏览器 UA 就变成了：<strong>Mozilla/5.0 (compatible; Konqueror/3.2; FreeBSD) (KHTML, like Gecko)</strong>。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336484398.jpg" alt=""><br>
-一直使用自主 UA 的浏览器 Opera 也同样有这样的问题。</p>
-<p>但 Opera 不是简单地把自己也标记为 Gecko，而是主张让用户来决定变成什么样的浏览器。于是 Opera 在菜单里增加了浏览器 UA 的选项，让用户来选择是变成 IE 还是 Firefox，又或者是它自己本体。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336524046.jpg" alt=""><br>
-2003 年，苹果公司从 KHTML 引擎中分支出来了 Webkit，然后开发了 Safari 浏览器。</p>
-<p>为了兼容性的考虑，于是苹果将 KHTML 内核 UA 中 的 Mozilla、KHTML、Gecko 统统继承了下来，变成了：<strong>Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5</strong>。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336566904.jpg" alt=""><br>
-2008 年，谷歌使用了苹果的 Webkit 开发出了 Chrome 浏览器。</p>
-<p>和 Safari 一样，Chrome 浏览器也想兼容那些为 Safari 专门编写的页面，于是就继承了 Safari 的 UA，然后再加入自己的 UA：<strong>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13</strong>。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336606137.jpg" alt=""><br>
-如果要问谁是“<strong>伪装之王</strong>”，那一定非 <strong>Edge</strong> 莫属了。</p>
-<p>2020 年，微软转用谷歌的 Chromium 内核开发 Edge 浏览器，为了不再受兼容性的困扰，Edge 浏览器几乎将所浏览器的 UA 都加入了进来，于是就有了：</p>
-<p><strong>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.70 Safari/537.36 Edg/90.0.818.38</strong><br>
-<img src="https://NirvanaJ.github.io/post-images/1630336691138.jpg" alt=""><br>
-如果把 UA 的伪装比作是“<strong>俄罗斯套娃</strong>”的话，我们会发现：</p>
-<p>Edge 伪装成 Chrome，Chrome 伪装成 Safari，Safari 伪装成 KHTML，KHTML 伪装成 Gecko，Gecko 和 IE 又伪装成 Mozilla，<strong>最终，所有浏览器的 UA 都以 Mozilla 开头</strong>。</p>
-<p>尽管 Mozilla 作为一个浏览器而言，早已从市场上消失。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336732356.jpg" alt=""></p>
-<h1 id="四-自定义浏览器-ua"><strong>四、自定义浏览器 UA</strong></h1>
-<p>浏览器 UA 的利用，通常与浏览器的功能性相关，但也会有其他的因素。</p>
-<p>比如当年的“<strong>3Q大战</strong>”，QQ 空间利用 360 浏览器 UA 中含有的“<strong>360SE</strong>”字样来屏蔽 360 浏览器，而 360 浏览器为了躲避封杀，则将“<strong>360SE</strong>”的字样从浏览器 UA 中移除。</p>
-<p><img src="https://NirvanaJ.github.io/post-images/1630336801448.jpg" alt=""><br>
-又比如一些视频网站，针对<strong>桌面浏览器和安卓手机浏览器</strong>，会推送视频贴片广告，而对苹果的 <strong>Safari 浏览器</strong>则不推送。还有如百度网盘，用一般的浏览器下载会大幅限速，而用自家的“<strong>百度云管家</strong>”则会小幅限速。</p>
-<p>对于这类区别对待，我们<strong>有必要夺回浏览器 UA 的控制权</strong>。</p>
-<p>首先，我们检查一下当前使用浏览器的 UA，方法在地址栏中输入 ：</p>
-<p>Chrome：chrome://version</p>
-<p>Edge：edge://version</p>
-<p>Firefox：about:support</p>
-<p>又或者打开下面三个网站来检测：<br>
-<a href="">https://www.whatsmyua.info</a></p>
-<p><a href="">https://passer-by.com/browser</a></p>
-<p><a href="">http://useragentstring.com</a><br>
-然后，我们可以使用拓展 <strong>User-Agent Switcher and Manager</strong> 来自定义浏览器 UA，拓展同时还支持“白名单模式”，可以对不同的网站使用不同的浏览器 UA。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630336927145.webp" alt=""><br>
-又或者使用拓展 <strong>Header Editor</strong> 来修改浏览器 UA。</p>
-<p>它的优点在于<strong>多功能合一</strong>，可以省去安装一个专门的浏览器 UA 拓展，支持 Chrome、Edge、Firefox 三款浏览器。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630337012821.jpg" alt=""><br>
-就是要注意，使用完后要切换回默认的 <strong>UA</strong> 哦。</p>
-<h1 id="结尾"><strong>结尾</strong></h1>
-<p>说到底，浏览器 UA 其实是“<strong>浏览器大战</strong>”的产物。</p>
-<p>如果我们想要有一个更加畅通无阻的互联网，那么就很有必要去了解它。</p>
-<p>而且，随着 Python 和大数据的火热，「<strong>爬虫技术</strong>」和「<strong>反爬虫技术</strong>」的入门也都离不开浏览器 UA。看完这篇文章后，相信你已经半只脚踏入这个领域了，至少在朋友面前装个 B 已经是没问题了。<br>
-<img src="https://NirvanaJ.github.io/post-images/1630337087708.jpg" alt=""></p>
-]]></summary>
         <content type="html"><![CDATA[<h1 id="导读"><strong>导读</strong></h1>
 <p><img src="https://NirvanaJ.github.io/post-images/1630335766942.jpg" alt=""></p>
 <p>几乎所有的中国网民都不会忘记 2010 年的“<strong>3Q大战</strong>”。<br>
-在腾讯做出那个“<strong>非常艰难的决定</strong>”之后，360 不但不能与 QQ 同时安装</p>
-<!-- more -->了，使用 360 浏览器的用户也不再能访问 QQ 空间，QQ 空间作为当时最受欢迎的社交网站，**腾讯的这一操作就等同于宣判了 360 浏览器的死刑**。
+在腾讯做出那个“<strong>非常艰难的决定</strong>”之后，360 不但不能与 QQ 同时安装<!-- more -->了，使用 360 浏览器的用户也不再能访问 QQ 空间，QQ 空间作为当时最受欢迎的社交网站，<strong>腾讯的这一操作就等同于宣判了 360 浏览器的死刑</strong>。</p>
 <p>在此次大战中，发挥着关键性作用的是「<strong>浏览器 UA</strong>」，我们今天就来好好讨论一下这个话题。</p>
 <h1 id="一-浏览器-ua-的诞生"><strong>一、浏览器 UA 的诞生</strong></h1>
 <p>要讲清楚这个话题，我们要从 1990 年说起。</p>
@@ -161,11 +87,9 @@
 <p>如果我们想要有一个更加畅通无阻的互联网，那么就很有必要去了解它。</p>
 <p>而且，随着 Python 和大数据的火热，「<strong>爬虫技术</strong>」和「<strong>反爬虫技术</strong>」的入门也都离不开浏览器 UA。看完这篇文章后，相信你已经半只脚踏入这个领域了，至少在朋友面前装个 B 已经是没问题了。<br>
 <img src="https://NirvanaJ.github.io/post-images/1630337087708.jpg" alt=""></p>
-<!-- more -->
 <ul>
 <li><em><code>注：本文由 奔跑中的奶酪 作者：奔跑中的奶酪 发表，其版权均为作者所有，如有侵权，联系删除。</code></em></li>
 </ul>
-<!-- more -->
 ]]></content>
     </entry>
     <entry>
