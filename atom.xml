@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-09-03T15:21:24.511Z</updated>
+    <updated>2021-09-05T14:46:36.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -10,6 +10,72 @@
     <logo>https://NirvanaJ.github.io/images/avatar.png</logo>
     <icon>https://NirvanaJ.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NirvanaJ_blog</rights>
+    <entry>
+        <title type="html"><![CDATA[《Linux就该这么学》— 非常适合linux技术学习的入门好书]]></title>
+        <id>https://NirvanaJ.github.io/post/zw-5</id>
+        <link href="https://NirvanaJ.github.io/post/zw-5">
+        </link>
+        <updated>2021-09-05T14:34:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<h2 id=""></h2>
+<p><img src="https://NirvanaJ.github.io/post-images/1630852542487.png" alt=""></p>
+<blockquote>
+<p>摘要：推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍”。本书作者刘遄（Liu Chuán）从事于Linux运维技术行业，高中时期便因兴趣的驱使而较早的接触到了Linux系统并开始学习运维技术，已在2012年考下红帽工程师RHCE_6版本证书，2015年初又分别考…</p>
+</blockquote>
+<p>推荐语：“刘遄老师的新书《Linux就该这么学》双十一当天预售出版上市，必读的Linux系统和红帽认证自学书籍”。本书作者刘遄（Liu Chuán）从事于Linux运维技术行业，高中时期便因兴趣的驱使而较早的接触到了Linux系统并开始学习运维技术，已在2012年考下红帽工程师RHCE_6版本证书，2015年初又分别考下RHCE_7版本证书与红帽架构师认证RHCA证书。<br>
+但深知水平有限且技术一般，若没有得益于良师益友的无私帮助，肯定不能如此顺利的完成Linux学业，并且同样作为一名普通的技术人，我亲身经历过半夜还在培训班的心酸，体验过拥堵6小时车程的无奈，看完过当今市面上十几本如同嚼蜡般的技术书籍，所以更加坚定了写出这本书的意念，此刻我正怀揣着一颗忐忑的心，竭尽全身心的斗志努力将知识分享给读者们，让您能够少走一些弯路。</p>
+<p>我认为一个高超的技术导师不应该仅仅当一名技术的搬运工，而应该是优质知识的提炼者，所以在写书的过程中将主动抛弃不实用的部分，将重点难点反复实践，更不会将所有了解的知识都写到书里来证明自己的学识，而是真正贴近于新人的思考角度出发，写出一本最适合您的Linux教材。</p>
+<p>本书意在带领读者从“0”基础开始学习linux系统，章节内配套有教学图片、视频及习题，达到增强学员兴趣与加深记忆的作用，当然这些都是免费的。才与诚合，然后事可成，恃才而败。我将付出不亚于任何人的努力，与可爱的读者们一起编写、完善这本书籍。</p>
+<blockquote>
+<p>书籍目录：<br>
+第0章 咱们先来谈谈学习方法和红帽系统。<br>
+第1章 部署虚拟环境安装linux系统。<br>
+第2章 新手必须掌握的Linux命令。<br>
+第3章 管道符、重定向与环境变量。<br>
+第4章 Vim编辑器与Shell命令脚本。<br>
+第5章 用户身份与文件权限。<br>
+第6章 存储结构与磁盘划分。<br>
+第7章 使用RAID与LVM磁盘阵列技术。<br>
+第8章 Iptables与Firewalld防火墙。<br>
+第9章 使用ssh服务管理远程主机。<br>
+第10章 使用Apache服务部署静态网站。<br>
+第11章 使用Vsftpd服务传输文件。<br>
+第12章 使用Samba或NFS实现文件共享。<br>
+第13章 使用Bind提供域名解析服务。<br>
+第14章 使用DHCP动态管理主机地址。<br>
+第15章 使用Postfix与Dovecot部署邮件系统。<br>
+第16章 使用Squid部署代理缓存服务。<br>
+第17章 使用iSCSI服务部署网络存储。<br>
+第18章 使用MariaDB数据库管理系统。<br>
+第19章 使用PXE+Kickstart无人值守安装服务。<br>
+第20章 使用LNMP架构部署动态网站环境。</p>
+</blockquote>
+<p><img src="https://NirvanaJ.github.io/post-images/1630852779319.png" alt=""><br>
+<code>在线阅读书籍：[https://www.linuxprobe.com/chapter-00.html](https://www.linuxprobe.com/chapter-00.html)</code></p>
+<blockquote>
+<p>本书相比《鸟哥的linux私房菜》有什么优势？</p>
+</blockquote>
+<p>坦白来讲，鸟哥的linux私房菜也是我的linux入门书籍，我绝对的认可鸟哥为这本书的付出，其书发行量巨大，陪伴了一代的运维人员，甚至被封为“linux入门神书”，渐渐的从一本linux技术书籍，上升至精神的高度，不允许再有一点反驳之声，但思索再三，还是决定阐明我的观点，与初学者分享下这不同的看法：<br>
+首先鸟哥在开篇即提到了写书的缘由是因为记性不好，所以想写出一本能够放在案头的备忘录，对书籍的内容自然就没有了太多的筛选，反而一再的扩大知识范围，最终写出的两本书厚度足足超过十厘米，敢问这种“备忘录式的入门书籍”真的适合新手来读？我认为书籍既然发行了，就不能再是个备忘录，而应该是通过作者的经验将知识不断提炼，真正让捧起书的读者看完有收获才可以。</p>
+<p>其次是鸟哥的linux私房菜的书籍更新周期过长，2014年末时RHEL7与Centos7就已经公布，经过了一年多的迭代，已经很稳定并被广泛使用了，如果内容没有定期更新，使得技术脱离了生产环境，还怎么称作是真正实用的linux技术？而且鸟哥的linux私房菜缺少了对新手非常重要的答疑与帮助，如果遇到了实验出错，或者有知识点悟不透，这些都可能让初学者丧失掉对linux技术的兴趣。</p>
+<blockquote>
+<p>RHEL与Centos系统区别：</p>
+</blockquote>
+<p>现在国内的很多书籍是以Centos系统为平台编写的，当然作者大多会列出来诸多的理由，但很多都是以讹传讹的歪曲道理，根本没有剖析到RedHat公司的运作方法和Centos系统的本质，Centos系统是通过将RHEL系统释放出的源代码二次编译的Linux系统之一，命令操作和服务配置方法自然都是完全相同，去掉了很多红帽收费的服务套件功能，并且不提供任何形式的技术支持，那么选择的理由只有一个——免费！，当“高手们”大举免费、开源、正义的旗帜来宣扬Centos系统的时候，诸不知Centos系统其实早在2014年初就已经被红帽公司收购，只是战略性的免费而已，而根据Gnu GPL许可协议，我们同样也可以免费使用RHEL系统，甚至是修改代码后创建出衍生产品，自由程度是没有任何的差异，更无关道德问题。</p>
+<p>您正在阅读的这本《Linux就该这么学》便是基于最新的RHEL7系统编写的，知识及实验完全的相通于Centos,fedora等系统，因此当您学习完本套课程后，即便公司内的生产环境是Centos系统也一样没有任何问题，并且本书配套资料中的iso镜像与红帽RHCSA及RHCE考试系统一致，尤其适合准备考取红帽认证的学员。</p>
+<blockquote>
+<p>资源：<br>
+Linux命令大全：<a href="https://www.linuxcool.com">https://www.linuxcool.com</a><br>
+在线阅读书籍：<a href="https://www.linuxprobe.com/chapter-00.html">https://www.linuxprobe.com/chapter-00.html</a><br>
+下载PDF电子书版本：<a href="https://www.linuxprobe.com/book">https://www.linuxprobe.com/book</a></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEU KMS Activator(win+office激活) v24.2]]></title>
         <id>https://NirvanaJ.github.io/post/zl-6</id>
@@ -388,38 +454,6 @@ See高级版<br>
 蓝奏云：https://gmengshuai.lanzoui.com/i57bGr167yf<br>
 天翼云：https://cloud.189.cn/web/share?code=FnMJje73If6n<br>
 萌云：https://moecloud.cn/s/7NVQsJ</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://NirvanaJ.github.io/post/hello-gridea</id>
-        <link href="https://NirvanaJ.github.io/post/hello-gridea">
-        </link>
-        <updated>2021-08-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
