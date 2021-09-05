@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-09-05T14:59:35.208Z</updated>
+    <updated>2021-09-05T15:01:03.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -55,10 +55,8 @@
 第19章 使用PXE+Kickstart无人值守安装服务。<br>
 第20章 使用LNMP架构部署动态网站环境。</p>
 </blockquote>
-<p><img src="https://NirvanaJ.github.io/post-images/1630852779319.png" alt=""></p>
-<blockquote>
-<p>在线阅读书籍： <a href="https://www.linuxprobe.com/chapter-00.html">https://www.linuxprobe.com/chapter-00.html</a></p>
-</blockquote>
+<p><img src="https://NirvanaJ.github.io/post-images/1630852779319.png" alt=""><br>
+<code>在线阅读书籍：</code> <a href="https://www.linuxprobe.com/chapter-00.html">https://www.linuxprobe.com/chapter-00.html</a></p>
 <blockquote>
 <p>本书相比《鸟哥的linux私房菜》有什么优势？</p>
 </blockquote>
