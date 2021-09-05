@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NirvanaJ.github.io</id>
     <title>NirvanaJ_blog</title>
-    <updated>2021-09-05T14:46:36.226Z</updated>
+    <updated>2021-09-05T14:56:38.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NirvanaJ.github.io"/>
     <link rel="self" href="https://NirvanaJ.github.io/atom.xml"/>
@@ -32,8 +32,8 @@
 <p>我认为一个高超的技术导师不应该仅仅当一名技术的搬运工，而应该是优质知识的提炼者，所以在写书的过程中将主动抛弃不实用的部分，将重点难点反复实践，更不会将所有了解的知识都写到书里来证明自己的学识，而是真正贴近于新人的思考角度出发，写出一本最适合您的Linux教材。</p>
 <p>本书意在带领读者从“0”基础开始学习linux系统，章节内配套有教学图片、视频及习题，达到增强学员兴趣与加深记忆的作用，当然这些都是免费的。才与诚合，然后事可成，恃才而败。我将付出不亚于任何人的努力，与可爱的读者们一起编写、完善这本书籍。</p>
 <blockquote>
-<p>书籍目录：<br>
-第0章 咱们先来谈谈学习方法和红帽系统。<br>
+<p>书籍目录：</p>
+<p>第0章 咱们先来谈谈学习方法和红帽系统。<br>
 第1章 部署虚拟环境安装linux系统。<br>
 第2章 新手必须掌握的Linux命令。<br>
 第3章 管道符、重定向与环境变量。<br>
@@ -55,8 +55,10 @@
 第19章 使用PXE+Kickstart无人值守安装服务。<br>
 第20章 使用LNMP架构部署动态网站环境。</p>
 </blockquote>
-<p><img src="https://NirvanaJ.github.io/post-images/1630852779319.png" alt=""><br>
-<code>在线阅读书籍：[https://www.linuxprobe.com/chapter-00.html](https://www.linuxprobe.com/chapter-00.html)</code></p>
+<p><img src="https://NirvanaJ.github.io/post-images/1630852779319.png" alt=""></p>
+<blockquote>
+<p>在线阅读书籍： <a href="https://www.linuxprobe.com/chapter-00.html">https://www.linuxprobe.com/chapter-00.html</a></p>
+</blockquote>
 <blockquote>
 <p>本书相比《鸟哥的linux私房菜》有什么优势？</p>
 </blockquote>
